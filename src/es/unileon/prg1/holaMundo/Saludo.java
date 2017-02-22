@@ -26,6 +26,6 @@ class Saludo {
 	public static void main(String args[]) {
 		Saludo objetoSaludo;
 		objetoSaludo = new Saludo();
-		objetoSaludo.saludar("Bienvenido a PRG!");
+		objetoSaludo.saludar("Hola!");
 	}
 }
